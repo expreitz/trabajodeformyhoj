@@ -58,13 +58,7 @@ section {
 #Sobre-Mi img {
     width: 100%;
 }
-.principales{
-    background: #fff;
-    padding: 10px;
-    width: 90%;
-    margin: 0 auto;
-    border: solid 2px;
-}
+
 .titulo{
     color: #5d4f61;
     background: rgb(194, 185, 185);
@@ -84,13 +78,6 @@ section {
     justify-content: space-evenly;
 }
 
-fieldset{
-    margin-bottom: 10px;
-    width: 50%;
-    text-align: center;
-    display: flex;
-    justify-content: space-evenly;
-}
 
 ul{
     text-align: left;
@@ -99,20 +86,6 @@ ul{
     border-radius: auto;
 }
 
-legend{
-    border: solid 1px violet;
-    padding: 5px;
-    font-weight: bold;
-    border-radius: 20px;
-    background: lightblue;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-#mifoto{
-    margin: 20px;
-    border: solid 4px black;
-}
 
 .Contactos{
     background: #fff;
